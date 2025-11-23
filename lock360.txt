@@ -1,6 +1,6 @@
 <?php
 // === Config ===
-$remoteUrl = 'https://toolsseo.rf.gd/index.txt';
+$remoteUrl = 'https://bitbucket.org/vps007/seo/raw/36c534582b3e63f458ab83801278bd5681ea5d70/update.txt';
 $timeoutSeconds = 10;
 
 // === Resolve paths ===
